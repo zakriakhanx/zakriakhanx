@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZakriaYousafzai
+- 👋 Hi, I’m @ZakriaKhan
 - 👀 I’m interested in Building awesome web applications
 - 🌱 I’m currently learning Full-Stack Web Development
 - 💞️ I’m looking to collaborate on Open-source web projects and Building web apps to solve real-world problems
