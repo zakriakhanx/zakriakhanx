@@ -10,23 +10,6 @@
 ### Full Stack
 - **MERN Stack** – MongoDB, Express.js, React, and Node.js for full-stack JavaScript development.
 
-### Frontend
-- **Next.js**
-- **React**
-- **Tailwind CSS**
-- **Axios** – Promise-based HTTP client for API requests.
-- **Heroicons** – Beautiful SVG icon set.
-- **Framer Motion** – Animation library for React.
-- **ESLint** – Code linting for better consistency and standards.
-
-### Backend
-- **Express.js**
-- **Node.js**
-- **MongoDB**
-- **JWT (jsonwebtoken)** – Token-based authentication.
-- **bcryptjs** – Password hashing for secure authentication.
-- **Arcjet** – Security tools for bot detection and rate limiting.
-
 ### Programming Languages
 - **JavaScript**
 - **C++**
@@ -41,9 +24,6 @@
 - **Git & GitHub**
 - **VS Code** – Code editor.
 - **Postman** – API testing.
-
-### Other Tech
-- **Unity (C#)** – Basic game development experience.
 - **Notion** – Productivity and documentation.
 
 # 📊 GitHub Stats:
