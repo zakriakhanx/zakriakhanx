@@ -18,7 +18,7 @@
 
 ### Designing & Prototyping
 - **Figma** – UI/UX design and prototyping.
-- **Canva**
+- **Canva**.
 
 ### Tools & Platforms
 - **Git & GitHub**
