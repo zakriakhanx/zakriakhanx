@@ -9,3 +9,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zakriakhanx&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakriakhanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=zakriakhanx&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+[![](https://visitcount.itsvg.in/api?id=zakriakhanx&label=Profile%20Views&color=4&icon=8&pretty=false)](https://visitcount.itsvg.in)
