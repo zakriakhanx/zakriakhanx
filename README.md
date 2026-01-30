@@ -6,3 +6,5 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=zakriakhanx&theme=nord)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zakriakhanx&show_icons=true&theme=nord)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zakriakhanx&layout=compact&theme=nord)
+
+<img src="http://ghchart.rshah.org/zakriakhanx" alt="Github chart" />
